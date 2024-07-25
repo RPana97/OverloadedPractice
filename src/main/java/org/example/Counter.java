@@ -1,3 +1,5 @@
+package org.example;
+
 public class Counter {
     private int value;
 
